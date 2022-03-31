@@ -1,6 +1,7 @@
 ﻿namespace NLayer.Service.Services
 {
-    internal interface IMappper
+    public interface IMappper
     {
+
     }
 }
